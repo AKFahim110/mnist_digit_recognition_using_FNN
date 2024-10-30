@@ -5,6 +5,7 @@ This project implements a Feedforward Neural Network (FNN) for classifying handw
 ## Key Features
 
 - **Model Architecture**: Configurable input, hidden, and output layer sizes.
+- ![CNN Architecture](https://miro.medium.com/max/2824/1*uAeANQIOQPqWZnnuH-VEyw.jpeg)
 - **Training and Validation**: Utilizes PyTorch's `nn.CrossEntropyLoss` for loss calculation and `torch.optim.SGD` for optimization.
 - **Evaluation Metrics**: Performance is evaluated using accuracy on the validation set.
 
